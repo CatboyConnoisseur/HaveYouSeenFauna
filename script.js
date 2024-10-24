@@ -4,8 +4,7 @@ const imagesWithLinks = [
     { src: 'images/fauna2.webp', link: 'https://virtualyoutuber.fandom.com/wiki/Ceres_Fauna/Gallery' },
     { src: 'images/fauna3.webp', link: 'https://virtualyoutuber.fandom.com/wiki/Ceres_Fauna/Gallery' },
     { src: 'images/fauna4.webp', link: 'https://virtualyoutuber.fandom.com/wiki/Ceres_Fauna/Gallery' },
-    { src: 'images/fauna5.webp', link: 'https://virtualyoutuber.fandom.com/wiki/Ceres_Fauna/Gallery' },
-    { src: 'images/fauna6.webp', link: 'https://virtualyoutuber.fandom.com/wiki/Ceres_Fauna/Gallery' }
+    { src: 'images/fauna5.webp', link: 'https://virtualyoutuber.fandom.com/wiki/Ceres_Fauna/Gallery' }
 ];
 
 
