@@ -9,7 +9,7 @@ const imagesWithLinks = [
 ];
 
 
-// { src: 'images/fauna.webp', link: 'link' }, 
+// array preset: { src: 'images/fauna.webp', link: 'link' }, 
 
 
 function displayRandomImage() {
